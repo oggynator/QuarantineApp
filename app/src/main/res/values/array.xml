@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_data">
+        <item>Symptoms</item>
+        <item>Order testkit (DK ONLY)</item>
+        <item>Nearest testing facility</item>
+        <item>Isolation activities</item>
+        <item>About this app</item>
+    </string-array>
+
+</resources>
